@@ -933,7 +933,7 @@ setInputActive(active: boolean) {
 }
 ```
 
-然后在 `GameManager` 脚本中引用 `PlayerController` 脚本：
+然后在 `GameManager` 脚本中引用 `PlayerController` 脚本：1
 
 ```ts
 @property({type: PlayerController})
